@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SQL05\\source\\repos\\FirstApp\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\SQL05\\Source\\Repos\\AspNETCore\\FirstApp\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\SQL05\\source\\repos\\FirstApp\\FirstApp\\FirstApp.csproj",
+      "projectPath": "C:\\Users\\SQL05\\Source\\Repos\\AspNETCore\\FirstApp\\FirstApp\\FirstApp.csproj",
       "packagesPath": "C:\\Users\\SQL05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SQL05\\source\\repos\\FirstApp\\FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\SQL05\\Source\\Repos\\AspNETCore\\FirstApp\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SQL05\\AppData\\Roaming\\NuGet\\NuGet.Config",
